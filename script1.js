@@ -1,0 +1,1 @@
+document.getElementById("num").innerHTML=5+12;
