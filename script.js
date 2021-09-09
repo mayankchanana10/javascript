@@ -1,0 +1,1 @@
+document.getElementById("page").innerHTML="This is best Example of Architecture";
